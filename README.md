@@ -1,2 +1,0 @@
-# PrivateBrowser
-Private Browser Extension
